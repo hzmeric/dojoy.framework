@@ -1,0 +1,13 @@
+target
+*/work/
+classes/
+*/bin/
+.settings
+.classpath
+.project
+.tomcatplugin
+*.jar
+.idea/*
+*.iml
+spring.log
+
